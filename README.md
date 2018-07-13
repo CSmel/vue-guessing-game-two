@@ -1,6 +1,4 @@
-# vue-guessing-game-deus
-
-> A Vue.js project
+# vue-guessing-game-dos> A Vue.js project
 
 ## Build Setup
 
